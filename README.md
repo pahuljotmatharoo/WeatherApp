@@ -3,23 +3,23 @@ Weather App made with an API from OpenWeather.
 
 🛠️ Technologies Used:
 
-HTML for structuring the app
+- HTML for structuring the app
 
-CSS for styling and layout
+- CSS for styling and layout
 
-JavaScript for fetching data from the weather API and dynamic content
+- JavaScript for fetching data from the weather API and dynamic content
 
 🌍 Features:
 
-Real-time weather updates for any city
+- Real-time weather updates for any city
 
-Clear and intuitive interface
+- Clear and intuitive interface
 
-Displays current temperature, weather description, humidity, and wind speed
+- Displays current temperature, weather description, humidity, and wind speed
 
-Responsive design for seamless use on both desktop and mobile devices
+- Responsive design for seamless use on both desktop and mobile devices
 
-Minimalist design that focuses on delivering essential information
+- Minimalist design that focuses on delivering essential information
 
 ![1](https://github.com/pahuljotmatharoo/WeatherApp/assets/105403944/2fa07c7b-2609-412c-9ca6-8797a38326e9)
 ![2](https://github.com/pahuljotmatharoo/WeatherApp/assets/105403944/a633d3be-f55b-4ec3-9a2c-cf5950a1ee99)
